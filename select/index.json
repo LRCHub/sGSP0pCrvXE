@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "酒と下戸",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-28T12:43:38.022448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "酒と下戸",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_酒と下戸_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sake to Geko [酒と下戸]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Sake_to_Geko_[酒と下戸]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "酒と下戸",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/03_酒と下戸_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "酒と下戸",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/04_酒と下戸_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "酒と下戸",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_酒と下戸_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "酒と下戸",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_酒と下戸_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "酒と下戸",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_酒と下戸_東京事変.txt"
+    }
+  ]
+}
